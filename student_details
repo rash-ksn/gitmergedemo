@@ -1,0 +1,4 @@
+name='xyz'
+sem =3
+print(name)
+print(sem)
