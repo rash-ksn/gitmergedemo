@@ -2,3 +2,6 @@ name='xyz'
 sem =3
 print(name)
 print(sem)
+
+age=20
+print(age)
